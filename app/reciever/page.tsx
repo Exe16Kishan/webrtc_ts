@@ -15,7 +15,12 @@ function page() {
     },[])
     
   return (
-    <div>receiver</div>
+    <div>
+
+    
+
+
+    </div>
   )
 }
 
